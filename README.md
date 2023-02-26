@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pramod Shivaprasad
-- 👀 I’m interested in C# ASP.NET code.
+- 👀 I’m interested in C#, ASP.NET, .Net core code.
 - 💞️ I’m looking to collaborate on C#, Asp.net projects
 
 <!---
